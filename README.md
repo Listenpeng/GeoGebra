@@ -93,4 +93,10 @@ $x = (R-r)\cos \alpha  + r\cos(\beta - \alpha) \\ = (R-r)\cos \alpha  + r\cos(\d
 $y = (R-r)\sin\alpha - r \sin(\beta - \alpha) \\= (R-r)\sin\alpha - r\sin \dfrac{R-r}{r} \alpha$
 
 
+![](http://latex.codecogs.com/gif.latex?\\frac{\\partial J}{\\partial \\theta_k^{(j)}}=\\sum_{i:r(i,j)=1}{\\big((\\theta^{(j)})^Tx^{(i)}-y^{(i,j)}\\big)x_k^{(i)}}+\\lambda \\xtheta_k^{(j)})
 
+
+作者：Deep Reader
+链接：https://www.zhihu.com/question/26887527/answer/43166739
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
