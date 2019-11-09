@@ -54,9 +54,9 @@ Rotate[ A, n, P ]注意观察方向
 
 
 
-$x =R\phi - R\sin\phi = R(\phi-\sin\phi) $
+$$x =R\phi - R\sin\phi = R(\phi-\sin\phi) $$
 
-$y = R - R\cos\phi= R(1-\cos\phi)$
+$$y = R - R\cos\phi= R(1-\cos\phi)$$
 
 
 
