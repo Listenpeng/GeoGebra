@@ -14,7 +14,7 @@ u = UnitPerpendicularVector[ l ]
 从图片中可以判断单位法向量的方向
 ```
 
-![](/home/listen/图片/截图/单位法向量.png)
+
 
 在圆外生成半径为1的圆r且与圆R相切，圆心为P
 
@@ -55,6 +55,8 @@ Rotate[ A, n, P ]注意观察方向
 
 
 $$x =R\phi - R\sin\phi = R(\phi-\sin\phi) $$
+
+![](http://y = R - R\cos\phi= R(1-\cos\phi)\)
 
 $$y = R - R\cos\phi= R(1-\cos\phi)$$
 
